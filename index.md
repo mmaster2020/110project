@@ -14,5 +14,5 @@ clear
 ```
 **This is because it cleans and gets rid of all the commands in the terminal.**
 
-I love to watch and build cars. My favorite car at the moment is the [BMW M3 CS] (https://www.bmwusa.com/vehicles/m-models/m3-sedan/overview.html).
+I love to watch and build cars. My favorite car at the moment is the [BMW M3 CS](https://www.bmwusa.com/vehicles/m-models/m3-sedan/overview.html).
 
