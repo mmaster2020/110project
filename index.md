@@ -1,7 +1,7 @@
 # Hi My Name is Mohammed Master!
 ## Who am I?
-*I am a third year student and I am majoring in Computer Science. I am from Los Angeles, California and have a lot of hobbies. I love to play sports such as basketball and football. I also like to build and work on cars.*
-My favorite car at the moment is the [BMW M3 CS](https://www.bmwusa.com/vehicles/m-models/m3-sedan/overview.html).
+I am a third year student and I am majoring in Computer Science. I am from *Los Angeles, California* and have a lot of hobbies. I love to play sports such as basketball and football. I also like to build and work on cars. My favorite car at the moment is the [BMW M3 CS](https://www.bmwusa.com/vehicles/m-models/m3-sedan/overview.html). I am a huge sport fanatic. My faborite basketball team is the Miami Heat and my favorite player is Dwyane Wade.  
+![image](https://images.app.goo.gl/6ho1akXpimksf5nt6)
 
 
 **I look forward to being in this class**
