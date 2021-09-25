@@ -27,5 +27,5 @@ clear
 ```
 This is because it cleans and gets rid of all the commands in the terminal and I can start fresh
 
-
+I do not have much experience programming in the job force but I have worked many other jobs. This is my [resume](Desktop/Resume/Resume.pdf)
 
