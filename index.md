@@ -32,5 +32,5 @@ clear
 ```
 This is because it cleans and gets rid of all the commands in the terminal and I can start fresh
 
-I do not have much experience programming in the job force but I have worked many other jobs. This is my [resume](https://github.com/mmaster2020/110project/blob/e3a9399c01b6889f9889b6a0d5efbaa5f7a39a94/110resume.pdf).
+I do not have much experience programming in the job force but I have worked many other jobs. This is my [resume](110resume.pdf) and here you can find thee classes that I have taken and the jobs that I have worked for.
 
