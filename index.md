@@ -13,9 +13,9 @@ I am a huge sport fanatic. My favorite basketball team is the Miami Heat and my 
 
 ## Who am I as a Programmer?
 I am a proficient programmer and have so much to learn ahead of me. As of now I have learned how to code in 
-- java
-- python
-- javascript
+- Java
+- Python
+- Javascript
 - C++
 - C#
 - HTML 
