@@ -5,6 +5,8 @@ I am a third year student and I am majoring in Computer Science. I am from *Los 
 2. Pizza
 3. Burgers
 
+![image](https://cdn.vox-cdn.com/thumbor/q4LVGeUUqfk6qXGzWLJVPv2AEUs=/0x0:4032x3024/1200x900/filters:focal(1694x1190:2338x1834):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67732822/La_Unica.0.jpg)
+
 I am a huge sport fanatic. My favorite basketball team is the Miami Heat and my favorite player is Dwyane Wade. If you like to know more about me just hit me up.
 ![image](https://www.enwallpaper.com/wp-content/uploads/c5c4be1c647bef2f694df87d64bda567.jpg)
 
