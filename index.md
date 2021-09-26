@@ -4,11 +4,12 @@ I am a third year student and I am majoring in Computer Science. I am from *Los 
 1. Tacos
 2. Pizza
 3. Burgers
-I am a huge sport fanatic. My favorite basketball team is the Miami Heat and my favorite player is Dwyane Wade.  
+
+I am a huge sport fanatic. My favorite basketball team is the Miami Heat and my favorite player is Dwyane Wade. If you like to know more about me just hit me up.
 ![image](https://www.enwallpaper.com/wp-content/uploads/c5c4be1c647bef2f694df87d64bda567.jpg)
 
 
-## Who am I as a programmer?
+## Who am I as a Programmer?
 I am a proficient programmer and have so much to learn ahead of me. As of now I have learned how to code in 
 - java
 - python
@@ -17,12 +18,12 @@ I am a proficient programmer and have so much to learn ahead of me. As of now I 
 - C#
 - HTML 
 
-**I look forward to being in this class**
+I look forward to being in this class and learning how to work as a group.
 
 **Nelson Mandela** has said:
 > "It always seems impossible until it's done."
 
-**This quote motivates me that everything is possible and I should not put my self down in anyway. I should never give up and constantly try again and again until I completee my goal.**
+This quote motivates me that everything is possible and I should not put my self down in anyway. I should never give up and constantly try again and again until I completee my goal.
 
 
 **My favorite piece of code is**
@@ -31,5 +32,5 @@ clear
 ```
 This is because it cleans and gets rid of all the commands in the terminal and I can start fresh
 
-I do not have much experience programming in the job force but I have worked many other jobs. This is my [resume](Desktop/Resume/Resume.pdf)
+I do not have much experience programming in the job force but I have worked many other jobs. This is my [resume](https://github.com/mmaster2020/110project/blob/e3a9399c01b6889f9889b6a0d5efbaa5f7a39a94/110resume.pdf).
 
