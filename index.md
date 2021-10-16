@@ -1,5 +1,7 @@
 # Hi My Name is Mohammed Master!
 ## Who am I?
+<img src="edit.JPG" width="557" height="1045" alt="picofme">
+
 I am a third year student and I am majoring in Computer Science. I am from *Los Angeles, California* and have a lot of hobbies. I love to play sports such as basketball and football. I also like to build and work on cars. My favorite car at the moment is the [BMW M3 CS](https://www.bmwusa.com/vehicles/m-models/m3-sedan/overview.html). I love to go out and eat aswell. I am into eating all different types of cuisine. Here's a ranking of what type of food I like best.
 1. Tacos
 2. Pizza
